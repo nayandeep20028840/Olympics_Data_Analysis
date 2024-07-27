@@ -133,6 +133,3 @@ Dataset Link - <a href="https://www.kaggle.com/datasets/krishd123/olympics-legac
 - Python
 - Power BI
 - Streamlit
-
-# TEAM THE BOYS<hr>
-Krishna Dubey (Data Collection, Dashboard and Analysis), Pankaj Kumar Giri (Data Collection), Nayandeep (Android)
